@@ -1,0 +1,108 @@
+{
+    "lowker": [
+        {
+            "id":1,
+            "company": "PT Karya1",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":2,
+            "company": "PT Karya2",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":3,
+            "company": "PT Karya3",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":4,
+            "company": "PT Karya4",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":5,
+            "company": "PT Karya5",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":6,
+            "company": "PT Karya6",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":7,
+            "company": "PT Karya7",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":8,
+            "company": "PT Karya8",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":9,
+            "company": "PT Karya9",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":10,
+            "company": "PT Karya10",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":11,
+            "company": "PT Karya11",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":12,
+            "company": "PT Karya12",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        },
+        {
+            "id":13,
+            "company": "PT Karya13",
+            "kategory": "IT",
+            "jabatan": "web developer",
+            "skill": ["react","laravel","mysql"],
+            "deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, itaque libero, ipsa ut, facere impedit quaerat quidem id non officia dolores iure. Ut placeat ipsam delectus quia nostrum, dolores sit?"
+        }
+    ]
+}

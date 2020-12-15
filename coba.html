@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<script>
+
+    // const ditepati = true;
+    // const janji1 = new Promise((resolve,reject) => {
+    //     if(ditepati){
+    //         resolve('janji ditepati')
+    //     }else{
+    //         reject('janji diingkari')
+    //     }
+    // })
+
+    // janji1
+    // .then(res => console.log('OK : '+res))
+    // .catch(res => console.log('GAGAL : '+res))
+    
+    // const ditepati = true;
+    // const janji2 = new Promise((resolve,reject) => {
+    //     if(ditepati){
+    //         setTimeout( () => {
+    //             resolve('Ditepati')
+    //         },2000)
+    //     }else{
+    //         setTimeout( () => {
+    //             reject('tidak Ditepati')
+    //         },2000)
+    //     }
+    // })
+
+
+    // console.log('mulai')
+    // janji2
+    // .finally( () => console.log('menunggu'))
+    // .then(res => console.log(res))
+    // .catch(res => console.log(res))
+    // .finally( () => console.log('selesai menunggu'))
+    // console.log('selesai')
+    // console.log(janji2)
+    
+    const films = new Promise(resolve =>{
+        setTimeout(() => {
+        resolve([{
+            "judul" : "Harry",
+            "tahun" : 2001
+        }])
+        },1000)
+    })
+    
+    const cuaca = new Promise(resolve =>{
+        setTimeout(() => {
+            resolve([{
+                "kota" : "bandung",
+                "tahun" : 2001
+            }])
+        },500)
+    })
+    
+    // films.then(res => console.log(res))
+    // cuaca.then(res => console.log(res))
+    // console.log()
+    Promise.all([films,cuaca])
+    .then( res => {
+        const [films,cuaca] = res
+        console.log(films)
+        console.log(cuaca)
+    })
+
+    
+
+</script>
+</body>
+</html>
